@@ -105,7 +105,7 @@ ans2 = st.text_input(
 st.session_state.ans1_val = ans1
 st.session_state.ans2_val = ans2
 st.session_state.ans3_val = ans3
-st.session_state.ans4_val = ans4
+st.session_state.ans3_val = ans3
 
 ans3 = st.text_input(
     "ข้อ 3: Peopie love to eat `A _ _ c _ d o`. 🥑",
